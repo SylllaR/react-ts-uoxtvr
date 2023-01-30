@@ -1,0 +1,9 @@
+export { default as VegeterianIcon } from './vegeterian';
+export { default as PorkIcon } from './pork';
+export { default as BeefIcon } from './beef';
+export { default as ModalBorder } from './modal-border';
+export { default as ModalBorderBig } from './modal-border-big';
+export { default as CloseIcon } from './close';
+export { default as BrushBkg } from './brush-bkg';
+export { default as ArrowLeft } from './arrow-left';
+export { default as ArrowRight } from './arrow-right';
